@@ -23,6 +23,10 @@ Hi, I'm Patience Chizoba Mba
 |     6|   SQL         |
 |     7|   MLOps         |
 |     8|   Generative AI         |
+|     9|   Open Source        |
+  
+My interests are subject to increase 😄
+
 
 
 
