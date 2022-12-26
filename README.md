@@ -11,7 +11,7 @@ Hi, I'm Patience Chizoba Mba
 
 <details open>
 
-<summary> My Top interests </summary>
+<summary> My Top interests  in no particular order  </summary>
 
 | S/N | Interest / Skills |
 |-----:|---------------|
