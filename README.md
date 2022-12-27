@@ -34,7 +34,7 @@ My interests are subject to increase 😄
 
 ---
 
-> Chizzy the data bender  
+> Chizzy the data mage  
 
 ---
 <!--
