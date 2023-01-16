@@ -34,7 +34,7 @@ My interests are subject to increase 😄
 
 ---
 
-> Chizzy the data mage  
+> Chizzy   
 
 ---
 <!--
