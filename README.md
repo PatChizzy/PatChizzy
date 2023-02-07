@@ -5,8 +5,6 @@ Hi, I'm Patience Chizoba Mba
 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Prefered name is Chizoba and I might be obsessed with learning
-- 🔭 I’m currently advancing my machine learning skill with big data and MLOps, thanks to KaggleX
-
 
 
 <details open>
