@@ -26,9 +26,7 @@ My interests are subject to increase 😄
 
 
 ----------------------------------
- 
-<!--  [Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatChizzy&show_icons=true&theme=radical&count_private=true) -->
-[Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatChizzy&show_icons=true&theme=radical)
+[Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatChizzy&show_icons=true&theme=radical&count_private=true)
   
   
 </details>
