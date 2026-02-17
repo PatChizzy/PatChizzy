@@ -3,7 +3,8 @@
 Hi, I'm Patience Chizoba Mba
 
 
-- Pronouns: She/her
+- Researcher | Data Scientist | Machine Learning Engineer
+- Pronouns: She/Her
 
 <details open>
 
@@ -22,11 +23,8 @@ Hi, I'm Patience Chizoba Mba
 |     9|   Geo Spatial Analysis      |
 |     10|   Remote Sensing       |
   
-My interests are subject to increase 😄
 
 
-----------------------------------
-[![Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatChizzy&show_icons=true&theme=radical&count_private=true)](https://github.com/PatChizzy)
 
   
 </details>
