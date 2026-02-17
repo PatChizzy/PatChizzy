@@ -3,9 +3,7 @@
 Hi, I'm Patience Chizoba Mba
 
 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Prefered name is Chizoba and I might be obsessed with learning
-
+- Pronouns: She/her
 
 <details open>
 
@@ -21,6 +19,8 @@ Hi, I'm Patience Chizoba Mba
 |     6|   SQL         |
 |     7|   MLOps         |
 |     8|   Open Source        |
+|     9|   Geo Spatial Analysis      |
+|     10|   Remote Sensing       |
   
 My interests are subject to increase 😄
 
