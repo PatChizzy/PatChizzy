@@ -16,12 +16,13 @@ Hi, I'm Patience Chizoba Mba
 |     2|   Machine Learning            |
 |     3|   Data Analytics        |
 |     4|   Computer Vision        |
-|     5|   Natural Language Processing    |
-|     6|   SQL         |
-|     7|   MLOps         |
-|     8|   Open Source        |
-|     9|   Geo Spatial Analysis      |
-|     10|   Remote Sensing       |
+|     5|   SQL         |
+|     6|   MLOps         |
+|     7|   Open Source        |
+|     8|   Geo Spatial Analysis      |
+|     9|   Remote Sensing       |
+|     10|   Climate Change Adaptation   |
+
   
 
 
